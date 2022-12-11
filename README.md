@@ -9,7 +9,7 @@ You work in the analytics department of a multinational company, and the head of
 
 Create a report that covers the following:
 
-    Which departments are the most/least active?
-    Which employee has the most connections?
-    Identify the most influential departments and employees.
-    Using the network analysis, in which departments would you recommend the HR team focus to boost collaboration?
+    - Which departments are the most/least active?
+    - Which employee has the most connections?
+    - Identify the most influential departments and employees.
+    - Using the network analysis, in which departments would you recommend the HR team focus to boost collaboration?
